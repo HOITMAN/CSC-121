@@ -1,3 +1,9 @@
+#Get user imputs for a sires of investments and compair results
+#9/7/24
+# CSC121 m1Lab2– Review
+#Tristan Beaty
+
+
 def userInput():
     numInvestments = int(input("How many investment options are there: "))
     valInvestment = float(input("What will be the value of your investment: "))
