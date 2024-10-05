@@ -1,4 +1,4 @@
-#
+# Ask the user what books they want to buy and display price
 # 9/23/24
 # CSC-121 m3Pro - Purchases
 # Tristan Beaty
